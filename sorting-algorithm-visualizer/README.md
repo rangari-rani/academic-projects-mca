@@ -39,7 +39,6 @@ This was one of my early GUI projects during MCA where I used **Bootstrap 4.4.1*
 ---
 ## ✨ Features
 
-```bash
 - 🔁 **Generate New Array** – Create a fresh random array for sorting
 - 🔢 **Array Size Selector** – Choose array size (up to 350 bars)
 - 🧠 **Algorithm Support**:
@@ -50,8 +49,7 @@ This was one of my early GUI projects during MCA where I used **Bootstrap 4.4.1*
   - Selection Sort
   - Heap Sort
 - 🎞️ **Step-by-Step Animation** – See comparisons and swaps animated live
-```
-
+  
 ---
 
 ## 🧠 What I Learned
@@ -82,6 +80,7 @@ Since this MCA project, I've worked on advanced full-stack applications with aut
 
 ## 📁 Folder Structure
 
+```bash
 sorting-algorithm-visualizer/
 ├── src/
 │ ├── components/
@@ -89,6 +88,7 @@ sorting-algorithm-visualizer/
 │ │ └── [all sorting logic files]
 │ ├── App.css
 │ └── App.js
+```
 
 ---
 
