@@ -4,7 +4,7 @@ A modern weather forecast application built with **React**, **Tailwind CSS**, an
 
 ---
 
-## 🚀 Live Demo -  [Try it on Vercel](https://weather-app-bice-alpha-21.vercel.app/)
+## 🚀 Live Demo -  [Try it on Vercel](https://weather-glance-three.vercel.app/)
 
 ---
 
