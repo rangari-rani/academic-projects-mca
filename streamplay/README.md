@@ -25,9 +25,9 @@ While I now focus on more advanced full-stack and scalable applications, this pr
 
 ## 📸 Screenshots
 
-![Home Page](https://github.com/rangari-rani/academic-projects-mca/blob/d09d41670940ef0fb8edb5fee2b2235b35b83963/streamplay/homepage.png) 
-![Song Page](https://github.com/rangari-rani/academic-projects-mca/blob/d09d41670940ef0fb8edb5fee2b2235b35b83963/streamplay/songpage.png)  
-![Quote Page](https://github.com/rangari-rani/academic-projects-mca/blob/b609248779fad2c481225f0f94ebd5158c1aa540/streamplay/quotepage.png)  
+![Home Page](https://github.com/rangari-rani/academic-projects-mca/blob/af62c2fb3afb9f23d004eda4c52fdf690413833c/streamplay/public/homepage.png) 
+![Song Page](https://github.com/rangari-rani/academic-projects-mca/blob/af62c2fb3afb9f23d004eda4c52fdf690413833c/streamplay/public/songpage.png)  
+![Quote Page](https://github.com/rangari-rani/academic-projects-mca/blob/af62c2fb3afb9f23d004eda4c52fdf690413833c/streamplay/public/quotepage.png)  
 
 ---
 
