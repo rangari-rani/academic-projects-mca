@@ -29,21 +29,20 @@ While I now focus on more advanced full-stack and scalable applications, this pr
 
 > 🌍 The screenshots were updated on **July 13, 2025**, to reflect the latest UI polish and timezone correction (example city: **Berlin, DE**).
 
-![Screenshot 1](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page1.png) 
-![Screenshot 2](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page2.png)  
+![Weather Forecast Page](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page1.png) 
+![Weather Forecast Page](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page2.png)  
 
 ---
 
 ## ✨ Features
 
-- 🔍 City-based search (e.g., Mumbai, Berlin)
-- 📍 Get current location weather using browser GPS
+- 🔍 Search for weather by city name
+- 📍 Get current location forecast via browser GPS
 - 🌡️ Toggle between Celsius (°C) and Fahrenheit (°F)
-- ⏳ Accurate 5-day forecast (daily at 12PM)
+- 📅 5-day forecast (daily at 12 PM)
 - 🕒 Real-time hourly forecast (next 5 entries)
-- ⚠️ Toast notifications for loading state and errors
-- 💡 Mobile responsive UI with Tailwind CSS
-- 🌐 **Manual timezone correction** using UTC offset
+- 🧭 Timezone correction using UTC offset
+- 🔔 Toast notifications for loading and errors
 
 ---
 
@@ -61,7 +60,34 @@ I fixed the bug by:
 
 ---
 
-## 📁 Folder Structure (Monorepo)
+## 🧠 What I Learned
+
+- Integrating real-world APIs with React
+- Handling geolocation via browser
+- Timezone math and formatting using Luxon
+- State-driven UI with `useEffect` and `useState`
+- Error handling, feedback toasts, and user-first UX
+
+---
+
+## ⚠️ Limitations (MCA Phase)
+
+- No saved cities or user account
+- No dark mode or chart-based weather graphs
+- Forecast UI limited to default 5-day/hourly API structure
+- API key is hardcoded (no `.env` support)
+
+---
+
+## 🔄 What Came Next
+
+Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems, microservices, and more.
+
+📌 **Check my pinned GitHub repositories for latest monolithic and microservice projects.**  
+
+---
+
+## 📁 Folder Structure 
 
 ```
 weather-app/
@@ -79,36 +105,35 @@ weather-app/
 
 ## ⚙️ Setup Instructions
 
-1. **Clone this repo**
-   ```bash
-   git clone https://github.com/rangari-rani/weather-app.git
-   cd weather-app
-   ```
+### 1. Clone the repository
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+```bash
+git clone https://github.com/rangari-rani/academic-projects-mca.git
+cd academic-projects-mca/weather-app
+```
 
-3. **Add your API key**
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm start
+```
+
+The app will be available at:  
+🌐 http://localhost:3000  
+
+### 4. Add your API key
    
  - Get a free key from OpenWeatherMap  
  - Paste it in src/weather/weatherService.js:
 
    ```bash
    const API_KEY = "your_api_key_here";
-   ```
-
-4. **Run the app**
-
-   ```bash
-   npm run start
-   ```
-
-5. **Build for production**
-
-   ```bash
-   npm run build
    ```
 
 ---
