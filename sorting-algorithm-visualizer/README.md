@@ -10,7 +10,7 @@ An interactive visualizer of popular sorting algorithms built using **React** du
 
 ## 📚 About This Project
 
-This was one of my early GUI projects during MCA where I used **Bootstrap 4.4.1** directly via **CDN** to handle all the layout, responsiveness, and components styling — no custom CSS or SCSS setup was required. It helped me quickly prototype UI with grid, buttons, and modals using only class names.
+This was one of my early GUI projects during MCA where I used **Bootstrap 4.4.1** directly via **CDN** to handle all the layout, and components styling — no custom CSS or SCSS setup was required. It helped me quickly prototype UI with grid, buttons, and modals using only class names.
 
 ---
 
