@@ -24,15 +24,6 @@ This was one of my early GUI projects during MCA where I used **Bootstrap 4.4.1*
 
 ## 📸 Screenshots
 
-> _(You can update these after adding GitHub-hosted images)_  
-- Sorting in action (Merge Sort / Quick Sort etc.)  
-- Array with visual bars representing values  
-- Control Panel: dropdown, new array, range selector  
-
----
-
-## 📸 Screenshots
-
 ![New Array](https://github.com/rangari-rani/academic-projects-mca/blob/1e441449e4a340e1bf3cff397c29a713d7fef1db/sorting-algorithm-visualizer/newarray.png) 
 ![Sorted Array](https://github.com/rangari-rani/academic-projects-mca/blob/1e441449e4a340e1bf3cff397c29a713d7fef1db/sorting-algorithm-visualizer/afterarray.png)  
 
