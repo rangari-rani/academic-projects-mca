@@ -27,6 +27,8 @@ While I now focus on more advanced full-stack and scalable applications, this pr
 
 ## 📸 Screenshots
 
+> 🌍 The screenshots were updated on **July 13, 2025**, to reflect the latest UI polish and timezone correction (example city: **Berlin, DE**).
+
 ![Screenshot 1](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page1.png) 
 ![Screenshot 2](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page2.png)  
 
@@ -45,18 +47,17 @@ While I now focus on more advanced full-stack and scalable applications, this pr
 
 ---
 
-## 🧠 Notable Challenge Solved
+### 🛠️ Bug Fix Note (July 2025)
 
-### 🕒 Accurate Local Forecast Time using `/forecast` API
+While revisiting this project in **July 2025**, I discovered a **timezone display bug** where cities like **Nagpur** and **Berlin** showed incorrect local times in the forecast view. This issue stemmed from misusing the `timezone` offset returned by the OpenWeatherMap API.
 
-Unlike `/onecall`, OpenWeather's `/forecast` API returns only a raw `timezone` offset in seconds (e.g., `19800` for India).  
-Instead of hardcoding or defaulting to UTC, this app:
+I fixed the bug by:
 
-- Adjusts all timestamps by `dt + timezone`
-- Uses **Luxon** to format corrected time in readable form
-- Ensures that forecast times match the **real local time** of the selected city
+- Applying the `timezone` offset (`dt + timezone`) to all timestamps
+- Using **Luxon** to correctly format and display local time
+- Verifying with cities across multiple timezones (UTC±) and daylight saving time (DST) cases
 
-This avoids the common bug where apps show wrong dates like “27 July” instead of “13 July” for cities like Nagpur.
+✅ This ensures forecast timestamps now match the **real local time** of any searched city — a common issue in weather apps that's now fully resolved.
 
 ---
 
