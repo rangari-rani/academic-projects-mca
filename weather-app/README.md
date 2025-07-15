@@ -81,9 +81,9 @@ I fixed the bug by:
 
 ## 🔄 What Came Next
 
-Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems, microservices, and more.
+Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems and more.
 
-📌 **Check my pinned GitHub repositories for latest monolithic and microservice projects.**  
+📌 **Check my pinned GitHub repositories for latest monolithic projects.**  
 
 ---
 
