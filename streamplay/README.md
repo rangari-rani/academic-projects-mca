@@ -23,6 +23,14 @@ While I now focus on more advanced full-stack and scalable applications, this pr
 
 ---
 
+## 📸 Screenshots
+
+![Home Page](https://github.com/rangari-rani/academic-projects-mca/blob/d09d41670940ef0fb8edb5fee2b2235b35b83963/streamplay/homepage.png) 
+![Song Page](https://github.com/rangari-rani/academic-projects-mca/blob/d09d41670940ef0fb8edb5fee2b2235b35b83963/streamplay/songpage.png)  
+![Quote Page](https://github.com/rangari-rani/academic-projects-mca/blob/d09d41670940ef0fb8edb5fee2b2235b35b83963/streamplay/songpage.png)  
+
+---
+
 ## 🚀 Features
 
 - 🎧 **Inbuilt Music Library**: Static songs/albums embedded directly
@@ -54,15 +62,63 @@ While I now focus on more advanced full-stack and scalable applications, this pr
 
 Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems, microservices, and more.
 
-📌 **Check my pinned GitHub repositories for latest monolithic and microservice projects.**
+📌 **Check my pinned GitHub repositories for latest monolithic and microservice projects.**  
 
 ---
 
+## 📁 Folder Structure 
+
+```
+streamplay/
+├── src/
+│   ├── assets/                # Local images, logos, backgrounds
+│   ├── components/            # All reusable UI parts
+│   │   ├── Main.jsx
+│   │   ├── Sidebar.jsx
+│   │   └── RandomQuote.jsx
+│   ├── context/               # Context API logic (e.g. PlayerContext.jsx)
+│   ├── App.jsx
+```
+
 ---
 
-## 📸 Screenshots
+## ⚙️ Setup Instructions
 
-![Screenshot 1](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page1.png) 
-![Screenshot 2](https://github.com/rangari-rani/weather-app/blob/b88ee15722120604f1677292df8ca919bf1430e2/page2.png)  
+> This project is located in the `academic-projects-mca/streamplay` folder. It runs on **Vite + React** and doesn't require any external API keys.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/rangari-rani/academic-projects-mca.git
+cd academic-projects-mca/streamplay
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+The app will be available at:  
+🌐 http://localhost:5173
 
 ---
+
+## 📜 License
+
+[MIT License](LICENSE)
+
+---
+
+## 📬 Contact
+
+-  This was one of my early React projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
+- 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+⭐ If you found this project helpful, consider giving it a star!
+
