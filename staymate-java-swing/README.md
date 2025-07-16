@@ -126,7 +126,7 @@ String password = "your_password";
 
 ## 📬 Contact
 
--  This was one of my early React projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
+-  This was one of my early projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
 - 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ If you found this project helpful, consider giving it a star!
 
