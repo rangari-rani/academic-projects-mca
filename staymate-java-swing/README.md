@@ -10,12 +10,12 @@ This was one of my earliest Java GUI projects, built during my **MCA phase (2022
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-- **Java Swing** – For designing desktop UI components (JFrame, JTable, JTextField, JCheckBox, etc.)
-- **JDBC** – For connecting and querying relational databases (MySQL)
-- **MySQL** – Backend database for storing users, room data, categories
-- **NetBeans IDE** – Used for drag-and-drop UI and form management
+- **[Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)** – For designing desktop UI components (`JFrame`, `JTable`, `JTextField`, `JCheckBox`, etc.)
+- **[JDBC (Java Database Connectivity)](https://docs.oracle.com/javase/tutorial/jdbc/)** – For connecting and querying relational databases (e.g., MySQL)
+- **[MySQL](https://www.mysql.com/)** – Backend database for storing users, room data, and categories
+- **[NetBeans IDE](https://netbeans.apache.org/)** – Used for drag-and-drop UI, form builder, and Java GUI development
 
 ---
 
@@ -31,7 +31,6 @@ This was one of my earliest Java GUI projects, built during my **MCA phase (2022
   - Description
   - Amenities (via checkboxes: Food, Wi-Fi, etc.)
 - 📋 **Manage Room Details** – Add, view, and clear room entries in a JTable
-- 👨‍🎓 **Student Information Management** – Capture and track student details
 
 ---
 
