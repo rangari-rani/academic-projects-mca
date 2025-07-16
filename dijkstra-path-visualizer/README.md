@@ -39,6 +39,31 @@ The goal was to better understand pathfinding logic by rendering grid-based anim
 
 ---
 
+## 🧠 What I Learned
+
+- React component-based architecture for grid nodes
+- Visualizing algorithm steps using DOM state
+- Optimizing loops and BFS-style traversal for performance
+
+---
+
+## ⚠️ Limitations (MCA Phase)
+
+- Only Dijkstra algorithm is implemented (no A*, DFS, BFS)
+- No weighted nodes or diagonal movement
+- Grid size is fixed and not resizable
+- No sound or accessibility features
+
+---
+
+## 🔄 What Came Next
+
+Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems and more.
+
+📌 **Check my pinned GitHub repositories for latest monolithic projects.**  
+
+---
+
 ## 📁 Folder Structure
 
 ```bash
