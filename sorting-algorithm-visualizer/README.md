@@ -16,9 +16,9 @@ This was one of my early GUI projects during MCA where I used **Bootstrap 4.4.1*
 
 ## 🛠️ Tech Stack
 
-- **React.js** – Component-based UI rendering and state management
-- **JavaScript** – Core logic for sorting algorithms and animations
-- **Bootstrap 4.4.1 (via CDN)** – Used for styling and responsive layout using class-based utilities
+- **[React.js](https://reactjs.org/)** – Component-based UI rendering and state management
+- **[JavaScript](https://www.javascript.com/)** – Core logic for sorting algorithms and animations
+- **[Bootstrap](https://getbootstrap.com/)** – Used for styling and responsive layout using class-based utilities
 
 ---
 
