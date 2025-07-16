@@ -1,6 +1,6 @@
 # 🔢 Sorting Algorithm Visualizer – React
 
-An interactive visualizer of popular sorting algorithms built using **React** during my **MCA phase (2022)**. It helps understand how each algorithm works step-by-step by animating array comparisons and swaps in real-time.
+An interactive visualizer of popular sorting algorithms built using **React**. It helps understand how each algorithm works step-by-step by animating array comparisons and swaps in real-time.
 
 ---
 
@@ -10,7 +10,7 @@ An interactive visualizer of popular sorting algorithms built using **React** du
 
 ## 📚 About This Project
 
-This was one of my early GUI projects during MCA where I used **Bootstrap 4.4.1** directly via **CDN** to handle all the layout, and components styling — no custom CSS or SCSS setup was required. It helped me quickly prototype UI with grid, buttons, and modals using only class names.
+This was one of my early GUI projects during **MCA academic phase (2022)** where I used **Bootstrap 4.4.1** directly via **CDN** to handle all the layout, and components styling — no custom CSS or SCSS setup was required. It helped me quickly prototype UI with grid, buttons, and modals using only class names.
 
 ---
 
@@ -117,7 +117,7 @@ Then open http://localhost:3000 to view it in the browser.
 
 ## 📬 Contact
 
--  This was one of my early React projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
+-  This was one of my early projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
 - 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ If you found this project helpful, consider giving it a star!
 
