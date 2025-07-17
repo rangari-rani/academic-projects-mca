@@ -24,9 +24,9 @@ The goal was to better understand pathfinding logic by rendering grid-based anim
 ---
 ## 📸 Screenshots
 
-![Start](https://github.com/rangari-rani/academic-projects-mca/blob/779632f211925dab8f7732c6b19142fc115c880d/dijkstra-path-visualizer/start.png) 
-![Blocks](https://github.com/rangari-rani/academic-projects-mca/blob/779632f211925dab8f7732c6b19142fc115c880d/dijkstra-path-visualizer/blocks.png)  
-![Final](https://github.com/rangari-rani/academic-projects-mca/blob/779632f211925dab8f7732c6b19142fc115c880d/dijkstra-path-visualizer/final.png)  
+![Start](https://github.com/rangari-rani/academic-projects-mca/blob/cf19e0181b435d26869dca678ae991f7f0f3e9cb/dijkstra-path-visualizer/public/start.png) 
+![Blocks](https://github.com/rangari-rani/academic-projects-mca/blob/cf19e0181b435d26869dca678ae991f7f0f3e9cb/dijkstra-path-visualizer/public/blocks.png)  
+![Final](https://github.com/rangari-rani/academic-projects-mca/blob/cf19e0181b435d26869dca678ae991f7f0f3e9cb/dijkstra-path-visualizer/public/final.png)  
 
 ---
 
