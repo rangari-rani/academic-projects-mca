@@ -95,8 +95,8 @@ Make sure MongoDB is running locally or use MongoDB Atlas.
 
 ## 1. Clone the repository
 ```bash
-git clone https://github.com/rani-rangari/FoodFusion.git
-cd FoodFusion
+git clone https://github.com/rangari-rani/academic-projects-mca.git
+cd academic-projects-mca/Food-Fusion-mern
 ```
 
 ## 2. Start the backend
