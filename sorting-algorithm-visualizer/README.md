@@ -24,8 +24,8 @@ This was one of my early GUI projects during **MCA academic phase (2022)** where
 
 ## 📸 Screenshots
 
-![New Array](https://github.com/rangari-rani/academic-projects-mca/blob/1e441449e4a340e1bf3cff397c29a713d7fef1db/sorting-algorithm-visualizer/newarray.png) 
-![Sorted Array](https://github.com/rangari-rani/academic-projects-mca/blob/1e441449e4a340e1bf3cff397c29a713d7fef1db/sorting-algorithm-visualizer/afterarray.png)  
+![New Array](https://github.com/rangari-rani/academic-projects-mca/blob/a5ee96b0772c271922fec1195dec52ad6749e09f/sorting-algorithm-visualizer/public/newarray.png) 
+![Sorted Array](https://github.com/rangari-rani/academic-projects-mca/blob/a5ee96b0772c271922fec1195dec52ad6749e09f/sorting-algorithm-visualizer/public/afterarray.png)  
 
 ---
 ## ✨ Features
