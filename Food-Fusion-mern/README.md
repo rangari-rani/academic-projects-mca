@@ -1,4 +1,4 @@
-# Food Fusion - – MERN Stack Food Delivery App
+# Food Fusion – MERN Stack Food Delivery App
 
 **Food Fusion** is a full-stack food delivery web application built using the **MERN Stack** to understand real-world frontend-backend integration, authentication, cart logic, and payment workflows.
 
