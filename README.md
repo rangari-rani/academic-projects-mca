@@ -1,6 +1,7 @@
 # 🎓 Academic Projects – MCA (2021–2022)
 
-Welcome to my collection of academic projects built during my MCA (Master of Computer Applications) studies (2021–2022). These projects span frontend, backend, full-stack web apps, desktop applications, and algorithm visualizations — showcasing a broad range of technologies and problem-solving approaches.
+Welcome to my collection of academic projects built during my MCA (Master of Computer Applications) studies (2021–2022).   
+These projects span frontend, backend, full-stack web apps, desktop applications, and algorithm visualizations — showcasing a broad range of technologies and problem-solving approaches.
 
 Each project folder contains its own README with detailed documentation, tech stack, and screenshots.
 
@@ -34,7 +35,7 @@ Each project folder contains its own README with detailed documentation, tech st
 
 ## 📚 Academic Context
 
-These projects were developed as part of my MCA curriculum in 2022–2023.  
+These projects were developed as part of my MCA curriculum in 2021–2022.  
 They helped me solidify my understanding of:
 
 - Frontend component-based architecture
