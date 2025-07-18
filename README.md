@@ -57,7 +57,7 @@ I'm now actively working with **Java + Spring Boot**, REST APIs, and monolithic 
 ## 📬 Contact
 
 This project was developed as part of my MCA (Master of Computer Applications) curriculum in 2022.  
-For more projects and ongoing work:
+For latest projects and ongoing work check:
 
 - 🔗 [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 - 💻 [GitHub – rangari-rani](https://github.com/rangari-rani)  
