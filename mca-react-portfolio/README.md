@@ -2,7 +2,7 @@
 
 A curated collection of academic projects built during my Master of Computer Applications (MCA) 2022. This portfolio showcases a range of frontend, backend, full-stack, desktop, and algorithmic projects — all aimed at strengthening my understanding of real-world development.
 
-> ✨ From writing my first lines of code in Nagpur to deploying complete full-stack apps — this is where my journey began.
+> ✨ From writing my first lines of code in Nagpur, India to deploying complete full-stack apps — this is where my journey began.
 
 ---
 
