@@ -3,6 +3,9 @@
 Welcome to my collection of academic projects built during my MCA (Master of Computer Applications) studies (2021–2022).   
 These projects span frontend, backend, full-stack web apps, desktop applications, and algorithm visualizations — showcasing a broad range of technologies.
 
+> 📌 View the full MCA Portfolio UI:  
+> [🌐 mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)  
+
 Each project folder contains its own README with detailed documentation, tech stack, and screenshots.
 
 ---
