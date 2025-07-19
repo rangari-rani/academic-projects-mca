@@ -1,4 +1,4 @@
-# 🎓 MCA Academic Portfolio
+# 🎓 MCA Academic Portfolio ![MCA Degree](https://img.shields.io/badge/MCA--Nagpur-Postgraduate--Degree-purple)
 
 A curated collection of academic projects built during my Master of Computer Applications (MCA) 2022. This portfolio showcases a range of frontend, backend, full-stack, desktop, and algorithmic projects — all aimed at strengthening my understanding of real-world development.
 
