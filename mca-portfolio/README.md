@@ -63,7 +63,7 @@ academic-projects-mca/
 ## 📬 Contact
 
 This portfolio was developed as part of my MCA (Master of Computer Applications) curriculum in 2022.  
-For the latest updates, check out my pinned repositories showcasing recent monolithic full-stack projects.
+📌 For my latest work, explore the pinned GitHub repositories featuring production-style monolithic Spring Boot + ReactJS projects.
 
 - 🔗 [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 - 💻 [GitHub – rangari-rani](https://github.com/rangari-rani)  
