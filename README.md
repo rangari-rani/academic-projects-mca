@@ -63,7 +63,7 @@ These projects showcase academic understanding and practical implementation acro
 
 ---
 
-## 🚀 Learning & Development Focus  
+📚 Current Tech Focus  
 
 Deepening my Spring Boot + ReactJS expertise by building real-world, modular full-stack applications.  
 📌 Check out pinned repositories for the latest projects!
