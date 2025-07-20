@@ -1,4 +1,4 @@
-# 🎓 Academic Projects – MCA (2021–2022)
+# 🎓 Academic Projects – MCA (2021–2022)  ![MCA](https://img.shields.io/badge/MCA-Academic_Projects-blueviolet)  
 
 Welcome to my collection of academic projects built during my MCA (Master of Computer Applications) studies (2021–2022).   
 These projects span frontend, backend, full-stack web apps, desktop applications, and algorithm visualizations — showcasing a broad range of technologies.
