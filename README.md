@@ -18,7 +18,7 @@ These projects showcase academic understanding and practical implementation acro
 | [🏨 StayMate Room Booking](./staymate-java-swing) | Desktop App | Java Swing, JDBC, MySQL | Room booking system with user login, form-based UI. |
 | [🔢 Sorting Algorithm Visualizer](./sorting-algorithm-visualizer) | Visualizer | React, CSS | Visualizes popular sorting algorithms like Bubble, Merge, Quick sort. |
 | [🧭 Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer) | Visualizer | React, CSS | Pathfinding simulation showing Dijkstra's algorithm in action. |
-| [🍱 Food Fusion (Full-Stack)](./Food-Fusion-mern) | Full Stack | MongoDB, Express, React, Node, Stripe | End-to-end food delivery system with auth, cart, payment, and admin panel. |  
+| [🍱 Food Fusion (Full-Stack)](./Food-Fusion-mern) | Full Stack | MongoDB, Express, React, Node | End-to-end food delivery system with auth, cart, payment, and admin panel. |  
 
 📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and usage instructions. 
 
