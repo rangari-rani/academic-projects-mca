@@ -1,8 +1,14 @@
-# 🎓 MCA Academic Portfolio ![MCA Degree](https://img.shields.io/badge/MCA--Nagpur-Postgraduate--Degree-purple)
+# 💼 Academic Portfolio – MCA (RTM Nagpur University, India – 2022)  
+[![Built with ReactJS](https://img.shields.io/badge/Built_with-ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![MCA (2022)](https://img.shields.io/badge/MCA_(2022)-RTM_Nagpur_University,_India-blue)](https://www.nagpuruniversity.ac.in/)
 
-A curated collection of academic projects built during my Master of Computer Applications (MCA) 2022. This portfolio showcases a range of frontend, backend, full-stack, desktop, and algorithmic projects — all aimed at strengthening my understanding of real-world development.
 
-> ✨ A diverse set of academic projects — from frontend interfaces to full-stack systems — built to strengthen my foundation in software development during the MCA program.
+A curated collection of web, desktop, and algorithmic projects developed during my Master of Computer Applications (MCA) at RTM Nagpur University in 2022.
+
+These projects reflect the shift from academic learning to hands-on application — building a strong base in frontend, backend, and full-stack development.
+
+> ✨ MCA provided the core programming foundation — from Java to building complete, working systems across platforms.
+
 
 ---
 
@@ -48,11 +54,15 @@ academic-projects-mca/
 └── README.md
 ```
 
+---
+
 ## 📌 Notes
 
-- All projects were built independently during MCA coursework and personal practice.
-- Some projects may have limitations or incomplete features as they were made for learning.
-- Java Swing UIs were designed using NetBeans Form Designer.
+- All projects were developed independently during my MCA coursework and refined through personal learning.
+- Each project demonstrates practical implementation of core concepts using Java, React, and full-stack tools.
+- Java Swing interfaces were designed using NetBeans Form Designer for faster UI development.
+
+---
 
 ## 📜 License
 
@@ -62,11 +72,6 @@ academic-projects-mca/
 
 ## 📬 Contact
 
-This portfolio was developed as part of my MCA (Master of Computer Applications) curriculum in 2022.  
-📌 For my latest work, explore the pinned GitHub repositories featuring production-style monolithic Spring Boot + ReactJS projects.
-
-- 🔗 [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-- 💻 [GitHub – rangari-rani](https://github.com/rangari-rani)  
-
-You're welcome to explore these projects — each one reflects a step forward in my developer journey.
-
+This portfolio showcases academic work completed during my **MCA Program (2022)**.  
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+⭐ If you found this helpful or insightful, feel free to explore and give it a ⭐!
