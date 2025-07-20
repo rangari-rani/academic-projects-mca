@@ -22,12 +22,12 @@ These projects reflect the shift from academic learning to hands-on application 
 
 | Project Name         | Tech Stack                            | Description                                 |
 |----------------------|----------------------------------------|---------------------------------------------|
-| 🌦️ Weather App       | React, OpenWeather API, TailwindCSS    | Displays real-time weather information with timezone support |
-| 🎵 StreamPlay Music  | ReactJS, TailwindCSS                   | Music player frontend with search and filter |
-| 🔢 Sorting Visualizer | ReactJS, CSS                          | Visualizes Bubble, Selection, Insertion sort |
-| 🔍 Dijkstra Path Visualizer | ReactJS, CSS                    | Dijkstra Algorithm visualized on a grid      |
-| 🛏️ StayMate             | Java Swing, JDBC, MySQL             | CRUD-based room management desktop system   |
-| 🍔 Food Fusion         | Reactjs, Nodejs, Express, MongoDB    | Full-stack food ordering app with user and admin flows |
+| 🌦️[Weather App](./weather-app/) | React, OpenWeather API, TailwindCSS    | Displays real-time weather information with timezone support |
+| 🎵[StreamPlay Music App](./streamplay)  | ReactJS, TailwindCSS                   | Music player frontend with search and filter |
+| 🏨[StayMate Room Booking](./staymate-java-swing) | ReactJS, CSS                          | Visualizes Bubble, Selection, Insertion sort |
+| 🔢[Sorting Algorithm Visualizer](./sorting-algorithm-visualizer)  | ReactJS, CSS                    | Dijkstra Algorithm visualized on a grid      |
+| 🧭[Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer)   | Java Swing, JDBC, MySQL             | CRUD-based room management desktop system   |
+| 🍱[Food Fusion (Full-Stack)](./Food-Fusion-mern)  | Reactjs, Nodejs, Express, MongoDB    | Full-stack food ordering app with user and admin flows |
 
 ---
 
