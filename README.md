@@ -1,12 +1,11 @@
-# 🎓 Academic Projects – MCA (2021–2022)  ![MCA](https://img.shields.io/badge/MCA-Academic_Projects-blueviolet)  
+# 🎓 Academic Projects – MCA (RTMNU Nagpur, India – 2022) [![MCA](https://img.shields.io/badge/MCA_(2022)-RTMNU_Nagpur,_India-blueviolet)](https://nagpuruniversity.ac.in/)
 
-Welcome to my collection of academic projects built during my MCA (Master of Computer Applications) studies (2021–2022).   
-These projects span frontend, backend, full-stack web apps, desktop applications, and algorithm visualizations — showcasing a broad range of technologies.
+Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.
+
+These projects showcase academic understanding and practical implementation across web and desktop technologies using React.js, Java Swing, and the MERN stack.
 
 > 📌 View the full MCA Portfolio UI:  
-> [🌐 mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)  
-
-Each project folder contains its own README with detailed documentation, tech stack, and screenshots.
+> [🌐 mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
 
 ---
 
@@ -19,38 +18,56 @@ Each project folder contains its own README with detailed documentation, tech st
 | [🏨 StayMate Room Booking](./staymate-java-swing) | Desktop App | Java Swing, JDBC, MySQL | Room booking system with user login, form-based UI. |
 | [🔢 Sorting Algorithm Visualizer](./sorting-algorithm-visualizer) | Visualizer | React, CSS | Visualizes popular sorting algorithms like Bubble, Merge, Quick sort. |
 | [🧭 Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer) | Visualizer | React, CSS | Pathfinding simulation showing Dijkstra's algorithm in action. |
-| [🍱 Food Fusion (Full-Stack)](./Food-Fusion-mern) | Full Stack | MERN (MongoDB, Express, React, Node), Stripe | End-to-end food delivery system with auth, cart, payment, and admin panel. |
+| [🍱 Food Fusion (Full-Stack)](./Food-Fusion-mern) | Full Stack | MERN (MongoDB, Express, React, Node), Stripe | End-to-end food delivery system with auth, cart, payment, and admin panel. |  
+
+📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and usage instructions. 
 
 ---
 
-## 🛠️ Skills Demonstrated
+## 📚 Technical Highlights from MCA
 
-- React.js UI design with Tailwind CSS
-- Java Swing for desktop application development
-- REST API integration & full-stack request handling (MERN)
-- MongoDB Atlas + Node.js backend APIs
-- JWT-based authentication
-- Stripe Payment Gateway integration
-- Algorithm visualization with animation & state logic
-- Form handling, modals, and responsive UI across projects
+### 🎨 Frontend Development
+
+- Built interactive UIs using **React.js** with component-based design
+- Styled responsive layouts using **Tailwind CSS** and plain **CSS3**
+- Implemented live data rendering via **public APIs** (e.g., Weather API)
+- Developed **algorithm visualizations** using state-driven animations
+- Designed static music player and search UIs using reusable components
+
+---
+
+### 💻 Desktop & Form-Based Applications
+
+- Developed a Java desktop app (**StayMate**) using **Java Swing**
+- Used **JDBC** to connect with **MySQL** and perform data operations
+- Designed login forms, user dashboards, and room booking features
+- Applied object-oriented principles to build modular Java classes
 
 ---
 
-## 📚 Academic Context
+### 🛠️ Full-Stack Development (MERN)
 
-These projects were developed as part of my MCA curriculum in 2021–2022.  
-They helped me solidify my understanding of:
-
-- Frontend component-based architecture
-- Full-stack data flow and deployment
-- Problem-solving with algorithmic thinking
-- UI/UX design for both web and desktop platforms
-
-I'm now actively working with **Java + Spring Boot**, REST APIs, and monolithic based architectures.   
-
-📌 **Check my pinned GitHub repositories for latest monolithic projects.**  
+- Created a full-stack food delivery app (**Food Fusion**) using **MongoDB, Express, React, and Node.js**
+- Integrated **Stripe Payment Gateway** for checkout and orders
+- Used **React Router** and conditional rendering for user/admin flows
+- Managed frontend and backend folder structure independently
 
 ---
+
+### 💡 Learning Outcomes
+
+- Strengthened foundation in **frontend frameworks** and **backend logic**
+- Practiced database design (relational and NoSQL)
+- Gained exposure to **end-to-end web development**
+- Built confidence in deploying real-world academic projects independently
+
+---
+
+🔄 I’m currently deepening my expertise in **Java (Spring Boot)**, **ReactJS**, and **MySQL** — with a strong focus on building scalable, maintainable full-stack applications that follow clean architecture and real-world development practices.
+📌 Check my pinned GitHub repositories for the latest updates and new projects.
+
+---
+
 ## 📜 License
 
 [MIT License](LICENSE)
@@ -59,12 +76,6 @@ I'm now actively working with **Java + Spring Boot**, REST APIs, and monolithic 
 
 ## 📬 Contact
 
-This project was developed as part of my MCA (Master of Computer Applications) curriculum in 2022.  
-For latest projects and ongoing work check:
-
-- 🔗 [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-- 💻 [GitHub – rangari-rani](https://github.com/rangari-rani)  
-
-Feel free to explore the repository for educational or reference purposes.
-
-
+This repository features academic work from my MCA program in 2022.  
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+⭐ Feel free to explore the projects for reference. If you found them helpful, consider giving a star!
