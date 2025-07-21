@@ -2,7 +2,7 @@
 
 Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.
 
-These projects showcase academic understanding and practical implementation across web and desktop technologies using React.js, Java Swing, and the MERN stack.
+These projects were built as part of my MCA curriculum and reflect my foundational experience in frontend, desktop, and full-stack development. They've laid the groundwork for my current focus on scalable, production-grade full-stack applications using Spring Boot and ReactJS.
 
 > 📌 View the full MCA Portfolio UI:  
 > [🌐 mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
@@ -65,8 +65,26 @@ These projects showcase academic understanding and practical implementation acro
 
 ## 📚 Current Tech Focus  
 
-Deepening my Spring Boot + ReactJS expertise by building real-world, modular full-stack applications.  
-📌 Check out pinned repositories for the latest projects!
+Currently focused on building modular, production-grade full-stack applications using Spring Boot and ReactJS.
+📌 Visit my pinned repositories to explore current, real-world full-stack apps built beyond the academic phase.
+
+---
+
+## 🧠 Reflection: Why These Projects Matter
+
+Each project helped me:
+- Build confidence with Git/GitHub workflows
+- Translate theory into working apps
+- Understand real challenges in UI/UX, DB design, and code structure
+
+These projects laid the groundwork for my transition from academic learning to real-world full-stack development.
+
+---
+
+## 🔗 Related Repositories
+
+- 🎓 [CDAC - Academic Projects](https://github.com/rani-rangari/cdac-projects)
+- 🧩 [Monolithic Project (Spring Boot + React)](https://github.com/rangari-rani/academic-projects-cdac)
 
 ---
 
