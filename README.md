@@ -26,7 +26,7 @@ These projects showcase academic understanding and practical implementation acro
 
 ## 📚 Technical Highlights from MCA
 
-### 🎨 Frontend Development
+### 🎨 Frontend Development (ReactJS)
 
 - Built interactive UIs using **React.js** with component-based design
 - Styled responsive layouts using **Tailwind CSS** and plain **CSS3**
@@ -36,7 +36,7 @@ These projects showcase academic understanding and practical implementation acro
 
 ---
 
-### 💻 Desktop & Form-Based Applications
+### 💻 Desktop & Form-Based Applications (Java)
 
 - Developed a Java desktop app (**StayMate**) using **Java Swing**
 - Used **JDBC** to connect with **MySQL** and perform data operations
