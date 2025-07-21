@@ -1,7 +1,7 @@
 # 🎓 Academic Projects – MCA (RTMNU Nagpur, India – 2022) [![MCA](https://img.shields.io/badge/MCA_(2022)-RTMNU_Nagpur,_India-blueviolet)](https://nagpuruniversity.ac.in/)
 
 Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.  
-> 🕒 _🕒 Originally developed during my MCA in 2022 — later organized and published for transparency, learning, and portfolio presentation._
+> 🕒 _Originally developed during my MCA in 2022 — later organized and published for transparency, learning, and portfolio presentation._
 
 These projects reflect my foundational experience in **frontend development**, **desktop applications**, and **algorithm visualization**.  
 
