@@ -20,7 +20,7 @@ These projects reflect my foundational experience in frontend, desktop, and visu
 | 🔢[Sorting Algorithm Visualizer](./sorting-algorithm-visualizer) | Visualizer | React, CSS | Visualizes popular sorting algorithms like Bubble, Merge, Quick sort. |
 | 🧭[Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer) | Visualizer | React, CSS | Pathfinding simulation showing Dijkstra's algorithm in action. |
 
-📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and usage instructions. 
+📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and and local setup instructions. 
 
 ---
 
