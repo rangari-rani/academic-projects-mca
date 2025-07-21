@@ -41,7 +41,7 @@ These projects reflect my foundational experience in **frontend development**, *
 
 - Developed a Java desktop app (**StayMate**) using **Java Swing**
 - Used **JDBC** to connect with **MySQL** and perform data operations
-- Designed login forms, user dashboards, and room booking features
+- Designed login screens, data entry forms, and booking interface  
 - Applied object-oriented principles to build modular Java classes
 
 ---
