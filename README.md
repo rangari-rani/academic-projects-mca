@@ -1,6 +1,7 @@
 # 🎓 Academic Projects – MCA (RTMNU Nagpur, India – 2022) [![MCA](https://img.shields.io/badge/MCA_(2022)-RTMNU_Nagpur,_India-blueviolet)](https://nagpuruniversity.ac.in/)
 
-Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.
+Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.  
+> 🕒 _Originally developed during my MCA in 2022 — organized and documented publicly in July 2025 for transparency, learning, and portfolio purposes._
 
 These projects reflect my foundational experience in frontend, desktop, and visual programming — and laid the groundwork for my current focus on production-ready full-stack development using Spring Boot and ReactJS.
 
@@ -15,12 +16,12 @@ These projects reflect my foundational experience in frontend, desktop, and visu
 |--------|------|------------|-------------|
 | 🌦️[Weather App](./weather-app/) | Frontend | React, Tailwind | Weather dashboard with live API, location search, and timezone correction. |
 | 🎵[StreamPlay Music App](./streamplay) | Frontend | React, Tailwind | Static music player UI with playlist visuals and responsive design. |
-| 🛍️[The Artisans Collective](./artisans-collectives) | Frontend | React, CSS | Product listing, category filtering, cart flow, and order success screen. No backend. |
+| 🛍️[The Artisans Collective](./artisans-collectives) | Frontend | React, CSS | Product listing, category filtering, cart flow, and order success screen.|
 | 🏨[StayMate Room Booking](./staymate-java-swing) | Desktop App | Java Swing, JDBC, MySQL | Room booking system with login, form-based UI, and database connectivity. |
 | 🔢[Sorting Algorithm Visualizer](./sorting-algorithm-visualizer) | Visualizer | React, CSS | Visualizes popular sorting algorithms like Bubble, Merge, Quick sort. |
 | 🧭[Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer) | Visualizer | React, CSS | Pathfinding simulation showing Dijkstra's algorithm in action. |
 
-📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and and local setup instructions. 
+📁 Each project folder includes a README.md with system architecture, tech stack, features, screenshots, and setup instructions.
 
 ---
 
@@ -54,10 +55,7 @@ Currently focused on building modular, production-grade full-stack applications 
 
 ## 🧠 Reflection: Why These Projects Matter
 
-Each project helped me:
-- Build confidence with Git/GitHub workflows
-- Translate theory into working apps
-- Understand real challenges in UI/UX, DB design, and code structure
+These projects helped me build confidence with Git/GitHub workflows, translate theory into working apps, and explore real-world challenges in UI/UX, database design, and clean code structure.
 
 ---
 
