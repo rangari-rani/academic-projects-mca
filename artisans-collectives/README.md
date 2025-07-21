@@ -1,8 +1,8 @@
 # 🛍️ Artisans Collective – React eCommerce Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 A beautiful handcrafted products eCommerce frontend built using **React**, **TailwindCSS**, and **Vite**.  
 The app offers a seamless shopping experience—from browsing collections to placing an order—fully on the frontend. No backend or authentication system is used.
