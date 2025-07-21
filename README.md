@@ -3,7 +3,7 @@
 Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.  
 > 🕒 _Originally developed during my MCA in 2022 — organized and documented publicly in July 2025 for transparency, learning, and portfolio purposes._
 
-These projects reflect my foundational experience in frontend, desktop, and visual programming — and laid the groundwork for my current focus on production-ready full-stack development using Spring Boot and ReactJS.
+These projects reflect my foundational experience in **frontend development**, **desktop applications**, and **algorithm visualization**.
 
 > 📌 View the full MCA Portfolio UI:  
 > [🌐 mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
