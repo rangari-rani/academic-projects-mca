@@ -15,7 +15,7 @@ These projects reflect my foundational experience in frontend, desktop, and visu
 |--------|------|------------|-------------|
 | 🌦️[Weather App](./weather-app/) | Frontend | React, Tailwind | Weather dashboard with live API, location search, and timezone correction. |
 | 🎵[StreamPlay Music App](./streamplay) | Frontend | React, Tailwind | Static music player UI with playlist visuals and responsive design. |
-| 🛍️[The Artisans Collective](./artisans-collective) | Frontend | React, CSS | Product listing, category filtering, cart flow, and order success screen. No backend. |
+| 🛍️[The Artisans Collective](./artisans-collectives) | Frontend | React, CSS | Product listing, category filtering, cart flow, and order success screen. No backend. |
 | 🏨[StayMate Room Booking](./staymate-java-swing) | Desktop App | Java Swing, JDBC, MySQL | Room booking system with login, form-based UI, and database connectivity. |
 | 🔢[Sorting Algorithm Visualizer](./sorting-algorithm-visualizer) | Visualizer | React, CSS | Visualizes popular sorting algorithms like Bubble, Merge, Quick sort. |
 | 🧭[Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer) | Visualizer | React, CSS | Pathfinding simulation showing Dijkstra's algorithm in action. |
