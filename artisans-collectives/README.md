@@ -5,7 +5,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 A beautiful handcrafted products eCommerce frontend built using **React**, **TailwindCSS**, and **Vite**.  
-The app offers a seamless shopping experience—from browsing collections to placing an order—fully on the frontend. No backend or authentication system is used.
+The app offers a seamless shopping experience—from browsing collections to placing an order—**purely on the frontend**, with mock data.
 
 ---
 
@@ -15,20 +15,20 @@ The app offers a seamless shopping experience—from browsing collections to pla
 
 ## 📚 About This Project
 
-This eCommerce frontend was built during my MCA in 2022 to explore product flow, state management, and responsive UI using React and Tailwind CSS.  
-While I now work on full-stack, API-integrated platforms, this project showcases my solid grasp of React architecture and component-driven design.
+This eCommerce frontend was created in 2022 as part of my academic journey in MCA, focusing on product flow, state management, and responsive UI design with React and Tailwind CSS.  
+Since then, I’ve moved on to building full-stack, API-integrated platforms using React and Spring Boot, applying those foundational learnings to real-world systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- [**React**](https://reactjs.org/) – A popular JavaScript library for building fast, interactive user interfaces using reusable components.  
-- [**Vite**](https://vitejs.dev/) – A next-generation frontend build tool for lightning-fast development and optimized production builds.  
-- [**Tailwind CSS**](https://tailwindcss.com/) – A utility-first CSS framework for designing modern, responsive UIs without writing custom CSS.  
+- [**React**](https://reactjs.org/) – JavaScript library for building interactive UIs with reusable components. 
+- [**Tailwind CSS**](https://tailwindcss.com/) –  Utility-first framework for responsive design without writing custom CSS.   
 - [**React Router v7**](https://reactrouter.com/en/main) – Enables dynamic client-side routing and navigation between pages like Home, Collections, and Cart.  
 - [**React Context API**](https://reactjs.org/docs/context.html) – Provides global state management for cart operations and navigation logic.  
 - [**React Icons**](https://react-icons.github.io/react-icons/) – Icon library integration for consistent, scalable vector icons throughout the app.
-
+- [**Vite**](https://vitejs.dev/) – Modern build tool for instant dev server and optimized production.  
+  
 ---
 
 ## 📸 Screenshots
@@ -79,7 +79,7 @@ _Mobile responsive design screenshots_
 - Total price dynamically updated
 - Guard: Checkout button disabled if cart is empty
 
-### 🚚 Checkout Flow (No login required)
+### 🚚 Checkout Flow 
 1. **Cart Page** → Proceed to Checkout
 2. **Delivery Info Page** → Enter name, phone, address
 3. **Place Order Button** → Order Placed Successfully screen
@@ -88,6 +88,7 @@ _Mobile responsive design screenshots_
 
 ## 🔄 What Came Next
 
+This frontend served as a foundational step that led me into full-stack app development.   
 Since then, I've worked on more advanced full-stack applications using ReactJS and Spring Boot, building secure, role-based systems with real API integration and database persistence.
 
 📌 **Visit my pinned GitHub repositories to explore real-world monolithic full-stack apps built beyond the academic phase.**  
@@ -100,9 +101,9 @@ Since then, I've worked on more advanced full-stack applications using ReactJS a
 artisans-collective/
 ├── src/
 │ ├── assets/
-│ ├── components/
-│ ├── context/
-│ ├── pages/
+│ ├── components/ # CartTotal, Navbar, ProductItem etc
+│ ├── context/ # ShopContext
+│ ├── pages/ # Cart, Home, Orders etc
 │ ├── App.jsx
 │ └── main.jsx
 ├── tailwind.config.js
