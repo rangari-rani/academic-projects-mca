@@ -1,7 +1,7 @@
 # 🎓 Academic Projects – MCA (RTMNU Nagpur, India – 2022) [![MCA](https://img.shields.io/badge/MCA_(2022)-RTMNU_Nagpur,_India-blueviolet)](https://nagpuruniversity.ac.in/)
 
 Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.  
-> 🕒 _Originally developed during my MCA in 2022 — organized and documented publicly in July 2025 for transparency, learning, and portfolio purposes._
+> 🕒 _Originally developed during my MCA in 2022 — later organized and published for transparency, learning, and portfolio purposes._
 
 These projects reflect my foundational experience in **frontend development**, **desktop applications**, and **algorithm visualization**.
 
@@ -25,7 +25,7 @@ These projects reflect my foundational experience in **frontend development**, *
 
 ---
 
-## 📚 Technical Highlights from MCA
+## 💡 Technical Skills Built During MCA Projects
 
 ### 🎨 Frontend Development (ReactJS)
 
@@ -48,7 +48,7 @@ These projects reflect my foundational experience in **frontend development**, *
 
 ## 📚 Current Tech Focus  
 
-Currently focused on building modular, production-grade full-stack applications using Spring Boot and ReactJS.  
+Currently building modular, production-grade full-stack apps using Spring Boot and ReactJS.  
 📌 Visit my pinned repositories to explore current, real-world full-stack apps built beyond the academic phase.
 
 ---
@@ -61,8 +61,8 @@ These projects helped me build confidence with Git/GitHub workflows, translate t
 
 ## 🔗 Related Repositories
 
-- 🎓 [CDAC - Academic Projects](https://github.com/rani-rangari/cdac-projects)
-- 🧩 [Monolithic Project (Spring Boot + React)](https://github.com/rangari-rani/academic-projects-cdac)
+- 🧩 [Monolithic Full-Stack Project (Spring Boot + React)](https://github.com/rangari-rani/academic-projects-cdac)
+- 🎓 [CDAC Academic Projects (2023)](https://github.com/rani-rangari/cdac-projects)
 
 ---
 
