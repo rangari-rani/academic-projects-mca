@@ -78,4 +78,4 @@ Each project helped me:
 
 This repository features academic work from my MCA program in 2022.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ Feel free to explore the projects for  learning and reference. If you found them useful, consider giving a ⭐!
+⭐ Feel free to explore the projects for learning and reference. If you found them useful, consider leaving a ⭐!
