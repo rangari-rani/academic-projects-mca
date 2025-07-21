@@ -2,7 +2,7 @@
 
 Welcome to my collection of academic projects built during the Master of Computer Applications (MCA) program at Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU), Nagpur in 2022.
 
-These projects were built as part of my MCA curriculum and reflect my foundational experience in frontend, desktop, and full-stack development. They've laid the groundwork for my current focus on scalable, production-grade full-stack applications using Spring Boot and ReactJS.
+These projects reflect my foundational experience in frontend, desktop, and visual programming — and laid the groundwork for my current focus on production-ready full-stack development using Spring Boot and ReactJS.
 
 > 📌 View the full MCA Portfolio UI:  
 > [🌐 mca-ranirangari-portfolio.vercel.app](https://mca-ranirangari-portfolio.vercel.app/)
@@ -15,10 +15,10 @@ These projects were built as part of my MCA curriculum and reflect my foundation
 |--------|------|------------|-------------|
 | 🌦️[Weather App](./weather-app/) | Frontend | React, Tailwind | Weather dashboard with live API, location search, and timezone correction. |
 | 🎵[StreamPlay Music App](./streamplay) | Frontend | React, Tailwind | Static music player UI with playlist visuals and responsive design. |
-| 🏨[StayMate Room Booking](./staymate-java-swing) | Desktop App | Java Swing, JDBC, MySQL | Room booking system with user login, form-based UI. |
+| 🛍️[The Artisans Collective](./artisans-collective) | Frontend | React, CSS | Product listing, category filtering, cart flow, and order success screen. No backend. |
+| 🏨[StayMate Room Booking](./staymate-java-swing) | Desktop App | Java Swing, JDBC, MySQL | Room booking system with login, form-based UI, and database connectivity. |
 | 🔢[Sorting Algorithm Visualizer](./sorting-algorithm-visualizer) | Visualizer | React, CSS | Visualizes popular sorting algorithms like Bubble, Merge, Quick sort. |
 | 🧭[Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer) | Visualizer | React, CSS | Pathfinding simulation showing Dijkstra's algorithm in action. |
-| 🍱[Food Fusion (Full-Stack)](./Food-Fusion-mern) | Full Stack | MongoDB, Express, React, Node | End-to-end food delivery system with auth, cart, payment, and admin panel. |  
 
 📁 Each project folder contains a `README.md` with system architecture, technologies used, key features, screenshots, and usage instructions. 
 
@@ -45,27 +45,9 @@ These projects were built as part of my MCA curriculum and reflect my foundation
 
 ---
 
-### 🛠️ Full-Stack Development (MERN)
-
-- Created a full-stack food delivery app (**Food Fusion**) using **MongoDB, Express, React, and Node.js**
-- Integrated **Stripe Payment Gateway** for checkout and orders
-- Used **React Router** and conditional rendering for user/admin flows
-- Managed frontend and backend folder structure independently
-
----
-
-### 💡 Learning Outcomes
-
-- Strengthened foundation in **frontend frameworks** and **backend logic**
-- Practiced database design (relational and NoSQL)
-- Gained exposure to **end-to-end web development**
-- Built confidence in deploying real-world academic projects independently
-
----
-
 ## 📚 Current Tech Focus  
 
-Currently focused on building modular, production-grade full-stack applications using Spring Boot and ReactJS.
+Currently focused on building modular, production-grade full-stack applications using Spring Boot and ReactJS.  
 📌 Visit my pinned repositories to explore current, real-world full-stack apps built beyond the academic phase.
 
 ---
@@ -76,8 +58,6 @@ Each project helped me:
 - Build confidence with Git/GitHub workflows
 - Translate theory into working apps
 - Understand real challenges in UI/UX, DB design, and code structure
-
-These projects laid the groundwork for my transition from academic learning to real-world full-stack development.
 
 ---
 
@@ -98,4 +78,4 @@ These projects laid the groundwork for my transition from academic learning to r
 
 This repository features academic work from my MCA program in 2022.  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ Feel free to explore the projects for reference. If you found them helpful, consider giving a star!
+⭐ Feel free to explore the projects for  learning and reference. If you found them useful, consider giving a ⭐!
