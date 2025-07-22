@@ -18,8 +18,6 @@ The app offers a seamless shopping experience—from browsing collections to pla
 This eCommerce frontend was built during MCA in 2022, focusing on product listings, cart flow, state management, and responsive UI using **React** and **Tailwind CSS**.  
 There’s no backend or login — the goal was to simulate a complete shopping experience with real-world UX patterns.
 
-Since then, I’ve moved on to building full-stack platforms using **ReactJS** and **Spring Boot**, applying these foundations in secure, API-driven systems.
-
 > 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
 ---
@@ -61,41 +59,21 @@ _Mobile responsive design screenshots_
 
 ## ✨ Features
 
-### 🏠 Home Page
-- Displays all products fetched from mock data.
-- Responsive grid layout with product cards.
-
-### 🧩 Collections Page
-- Products grouped by category:
-  - **Pottery**: Vase, Cups, Planters, Candle Holders
-  - **Painting**: Mandala, Geometry, Nature, Animal
-  - **Fashion**: Bracelets, Handbags, Wall Hangings, Caps
-- Filters by selected sub-category.
-
-### 🛒 Product Detail Page
-- Select size: S, M, L, XL
-- View pricing and details
-- Add item to cart
-- View similar products at bottom
-
-### 🛍️ Cart
-- Update quantity or delete items
-- Total price dynamically updated
-- Guard: Checkout button disabled if cart is empty
-
-### 🚚 Checkout Flow 
-1. **Cart Page** → Proceed to Checkout
-2. **Delivery Info Page** → Enter name, phone, address
-3. **Place Order Button** → Order Placed Successfully screen
+- **Home Page**: Responsive grid layout with all products (mock data).
+- **Collections**: Category-wise grouping — Pottery, Painting, Fashion. Filters by sub-category.
+- **Product Page**: Size select, price info, add to cart, similar items shown.
+- **Cart**: Update/delete items, live price total, checkout button guard.
+- **Checkout**: 3-step flow — Cart → Delivery Info → Success screen.
 
 ---
 
 ## 🔄 What Came Next
 
-This frontend served as a foundational step that led me into full-stack app development.   
-Since then, I've worked on more advanced full-stack applications using ReactJS and Spring Boot, building secure, role-based systems with real API integration and database persistence.
+This project marked my first serious attempt at building a realistic frontend flow.
 
-📌 **Visit my pinned GitHub repositories to explore real-world monolithic full-stack apps built beyond the academic phase.**  
+After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
+
+📌 Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.
 
 ---
 
@@ -164,6 +142,6 @@ npm run dev
 
 ## 📬 Contact
 
-This project features academic work from my MCA program in 2022.  
+This project is based on academic work from my MCA program (2022).  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ Feel free to explore the project for learning and reference. If you found it useful, consider leaving a ⭐!
+⭐ If you found this project helpful or insightful, feel free to leave a ⭐!
