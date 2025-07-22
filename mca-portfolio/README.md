@@ -3,13 +3,12 @@
 [![MCA (2022)](https://img.shields.io/badge/MCA_(2022)-RTM_Nagpur_University,_India-blue)](https://www.nagpuruniversity.ac.in/)
 
 
-A curated collection of web, desktop, and algorithmic projects developed during my Master of Computer Applications (MCA) at RTM Nagpur University in 2022.
+A curated collection of web, desktop, and algorithmic projects developed during my Master of Computer Applications (MCA) at RTM Nagpur University in 2022.  
 
-These projects reflect the shift from academic learning to hands-on application — building a strong base in frontend, backend, and full-stack development.
+These projects reflect the shift from academic learning to hands-on application — building a strong base in frontend, backend, and full-stack development.  
 
-> 🕒 Originally built in 2022 and later organized, refined, and published for clarity, learning, and portfolio presentation.  
 > ✨ MCA provided the core programming foundation — from Java to building complete, working systems across platforms.
-
+> 🕒 Originally built in 2022 and later organized, refined, and published for clarity, learning, and portfolio presentation.  
 
 ---
 
