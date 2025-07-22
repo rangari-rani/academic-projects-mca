@@ -1,6 +1,9 @@
-# 🌦️ React Weather App
+# 🌦️ Weather Glance – Real-Time Forecast App (React + Tailwind)
 
-A modern weather forecast application built with **React**, **Tailwind CSS**, and **Luxon**, powered by the [OpenWeatherMap API](https://openweathermap.org/api). It gives real-time weather conditions, hourly and daily forecasts, and handles timezone conversions manually for accuracy.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+A sleek, real-time weather forecast application with clean UI, responsive layout, and accurate timezone-adjusted data — powered by the [OpenWeatherMap API](https://openweathermap.org/api).
 
 ---
 
@@ -10,15 +13,22 @@ A modern weather forecast application built with **React**, **Tailwind CSS**, an
 
 ## 📚 About This Project
 
-This weather app was originally built during my MCA in 2022 as part of my early learning journey in React, APIs & UI design using Tailwind CSS.  
-While I now focus on more advanced full-stack and scalable applications, this project reflects my strong foundation in frontend logic and API integration.  
+Originally built during MCA (2022), this project marked my first deep dive into working with external APIs, dynamic UI states, and timezone-aware data presentation.
+
+Despite being a small-scale frontend app, it showcases key strengths:
+- API integration and real-time data handling  
+- Custom timezone conversion using **Luxon**  
+- Responsive UI with **Tailwind CSS**  
+- Reusable components and clean layout logic
+
+> 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- [React](https://reactjs.org/) : A powerful JavaScript library for building fast, interactive user interfaces using components.  
-- [Tailwind CSS](https://tailwindcss.com/) : A utility-first CSS framework for building modern, responsive UIs with ease.
+- [React](https://reactjs.org/) : JavaScript library for building interactive UIs with reusable components. 
+- [Tailwind CSS](https://tailwindcss.com/) : Utility-first framework for responsive design without writing custom CSS.
 - [Luxon](https://moment.github.io/luxon/) : A modern JavaScript library for handling dates and times with timezone and formatting support.
 - [React Toastify](https://fkhadra.github.io/react-toastify/) : A simple library to show elegant, customizable toast notifications in React.
 - [OpenWeatherMap API](https://openweathermap.org/api) : A free weather API that provides current, hourly, and forecasted weather data for any location.  
