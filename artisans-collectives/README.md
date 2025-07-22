@@ -101,9 +101,9 @@ Since then, I've worked on more advanced full-stack applications using ReactJS a
 artisans-collective/
 ├── src/
 │ ├── assets/
-│ ├── components/ # CartTotal, Navbar, ProductItem etc
-│ ├── context/ # ShopContext
-│ ├── pages/ # Cart, Home, Orders etc
+│ ├── components/    # CartTotal, Navbar, ProductItem etc
+│ ├── context/       # ShopContext
+│ ├── pages/         # Cart, Home, Orders etc
 │ ├── App.jsx
 │ └── main.jsx
 ├── tailwind.config.js
