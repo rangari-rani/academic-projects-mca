@@ -23,8 +23,6 @@ While lightweight and fully frontend, it reflects strong fundamentals in:
 - Component-based structure with conditional rendering
 - Responsive layout using Tailwind CSS
 
-> 🎧 Tracks are hardcoded; audio playback is managed via React logic, not raw `<audio>` tags.
-
 > 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
 ---
