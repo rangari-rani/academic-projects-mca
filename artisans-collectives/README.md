@@ -105,7 +105,7 @@ artisans-collective/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rangari-rani/academic-projects-mca.git
+[git clone https://github.com/rangari-rani/academic-projects-mca.git](https://github.com/rangari-rani/academic-projects-mca.git)
 cd artisans-collectives
 ```
 
