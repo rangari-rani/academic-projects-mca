@@ -93,7 +93,7 @@ cd staymate-java-swing
 
 - Update your DB connection in ConnectionProvider.java
 
-```bash
+```text
 String url = "jdbc:mysql://localhost:3306/staymate";
 String user = "root";
 String password = "your_password";
