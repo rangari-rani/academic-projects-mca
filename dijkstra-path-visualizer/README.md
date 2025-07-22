@@ -1,6 +1,8 @@
-# 📍 Dijkstra Pathfinding Algorithm Visualizer
+# 🧭 Dijkstra Visualizer – Grid-Based Pathfinding App (React)  
 
-An interactive visual tool to visualize **Dijkstra’s shortest path algorithm** on a 2D grid. Built using **React**, it shows how the algorithm traverses nodes and finds the shortest route between a start and an end point.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+An interactive visual tool that demonstrates Dijkstra’s shortest path algorithm on a 2D grid. It highlights how the algorithm explores nodes and calculates the most efficient path between a starting point and a destination.  
 
 ---
 
@@ -8,14 +10,21 @@ An interactive visual tool to visualize **Dijkstra’s shortest path algorithm**
 
 ---
 
-## 📚 About This Project
+## 📚 About This Project  
 
-This project was developed during my **MCA academic phase (2022)** to explore how Dijkstra’s algorithm works visually.  
-The goal was to better understand pathfinding logic by rendering grid-based animations where walls and weights impact traversal. It uses React and vanilla JS logic to update the grid based on user input and algorithm steps.
+Originally built during MCA (2022), this grid-based visualizer brings Dijkstra’s algorithm to life—showing how it navigates nodes, avoids walls, and finds the shortest path.  
+
+While simple in scope, it reflects strong fundamentals in:  
+- Pathfinding logic and algorithmic thinking
+- DOM manipulation and dynamic UI rendering
+- Grid traversal and user-driven interactivity
+- Visual debugging of step-by-step algorithm behavior
+
+> 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 - **[React.js](https://reactjs.org/)** – Component-based rendering, state management
 - **[JavaScript](https://www.javascript.com/)** – Core algorithm logic for Dijkstra traversal  
@@ -39,28 +48,13 @@ The goal was to better understand pathfinding logic by rendering grid-based anim
 
 ---
 
-## 🧠 What I Learned
-
-- React component-based architecture for grid nodes
-- Visualizing algorithm steps using DOM state
-- Optimizing loops and BFS-style traversal for performance
-
----
-
-## ⚠️ Limitations (MCA Phase)
-
-- Only Dijkstra algorithm is implemented (no A*, DFS, BFS)
-- No weighted nodes or diagonal movement
-- Grid size is fixed and not resizable
-- No sound or accessibility features
-
----
-
 ## 🔄 What Came Next
 
-Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems and more.
+This visual project deepened my interest in interactive UIs, which I later applied to full-stack platforms with real-world data and scalable architecture.  
 
-📌 **Check my pinned GitHub repositories for latest monolithic projects.**  
+After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
+
+📌 **Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.**  
 
 ---
 
@@ -71,8 +65,8 @@ dijkstra-path-visualizer/
 ├── public/
 ├── src/
 │   ├── PathfindingVisualizer/
-│   │   ├── Node/
-│   │   └── algorithms/
+│   ├── Node/
+│   │   └── PathfindingVisualizer.jsx
 │   ├── algorithms/
 │   │   └── dijkstra.js
 │   ├── App.js
@@ -81,29 +75,37 @@ dijkstra-path-visualizer/
 
 ---
 
-## ⚙️ Setup Instructions
-
-> This is a frontend-only React project — no backend or API needed.
+## ⚙️ Setup Instructions  
 
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/rangari-rani/academic-projects-mca.git
-cd academic-projects-mca/dijkstra-path-visualizer
+cd dijkstra-path-visualizer
 ```
 
-### 2. Install dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start the app
+### 3. Start the Development Server  
 
 ```bash
 npm start
 ```  
-Then open http://localhost:3000 to view it in the browser.  
+> The app will be available at:   
+> 🌐 http://localhost:3000    
+
+---
+
+## ⚠️ Limitations 
+
+- Only Dijkstra algorithm is implemented (no A*, DFS, BFS)
+- No weighted nodes or diagonal movement
+- Grid size is fixed and not resizable
+- No sound or accessibility features
 
 ---
 
@@ -115,7 +117,7 @@ Then open http://localhost:3000 to view it in the browser.
 
 ## 📬 Contact
 
--  This was one of my early projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
-- 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ If you found this project helpful, consider giving it a star!
+This project is based on academic work from my MCA program (2022).  
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
 
