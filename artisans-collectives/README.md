@@ -125,7 +125,7 @@ npm run dev
 
 ---
 
-## 🚫 Limitations
+## ⚠️ Limitations
 
 - No backend integration — all product data is hardcoded.
 - No authentication or user session management.
