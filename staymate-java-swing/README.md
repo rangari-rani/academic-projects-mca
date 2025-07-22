@@ -1,6 +1,6 @@
 # 🏨 StayMate – Property Room Management System (Java Swing GUI)  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 StayMate is a desktop-based application built using **Java Swing** that allows users (e.g., property managers) to manage room listings, student allocations, and amenities like Wi-Fi, food, and bed type.
