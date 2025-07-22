@@ -1,12 +1,24 @@
-# 🏨 StayMate – Java Swing Room Management App
+# 🏨 StayMate – Property Room Management System (Java Swing GUI)  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 StayMate is a desktop-based application built using **Java Swing** that allows users (e.g., property managers) to manage room listings, student allocations, and amenities like Wi-Fi, food, and bed type.
 
 ---
 
-## 📚 About This Project
+## 📚 About This Project  
 
-This was one of my earliest Java GUI projects, built during my **MCA phase (2022)**. The goal was to create a fully offline desktop application to manage room properties and student entries. It helped me grasp the fundamentals of Swing UI design, JDBC for database interaction, and object-oriented programming in Java.
+Originally created during MCA (2022), this project simulates student allocations, room listings, and amenity tracking.  
+
+While offline and desktop-based, it reflects strong fundamentals in:  
+- Swing-based GUI design and form handling
+- Object-Oriented Programming (OOP) principles
+- JDBC for persistent data storage (CRUD operations)
+- Modular Java classes for core features (rooms, students, amenities)
+- Multi-window UI and input validation
+
+> 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
 ---
 
@@ -19,57 +31,34 @@ This was one of my earliest Java GUI projects, built during my **MCA phase (2022
 
 ---
 
-## ✨ Features
-
-- 🔐 **Login & Signup** – Basic authentication flow for users
-- 🏠 **Home Page UI** – Shows available facilities like Wi-Fi, Double Bed, Food options
-- ➕ **Add Property Form** – Fields:
-  - Property Name
-  - Category
-  - Price
-  - Address
-  - Description
-  - Amenities (via checkboxes: Food, Wi-Fi, etc.)
-- 📋 **Manage Room Details** – Add, view, and clear room entries in a JTable
-
----
-
 ## 📸 Screenshots
 
 ![LoginPage](https://github.com/rangari-rani/academic-projects-mca/blob/6689bae7fe15a682a3d1d9d98b39de6c1b4e592f/staymate-java-swing/login.png)
 ![searchPage](https://github.com/rangari-rani/academic-projects-mca/blob/6689bae7fe15a682a3d1d9d98b39de6c1b4e592f/staymate-java-swing/home.png)
-![addRoom](https://github.com/rangari-rani/academic-projects-mca/blob/6689bae7fe15a682a3d1d9d98b39de6c1b4e592f/staymate-java-swing/property.png)
+![addRoom](https://github.com/rangari-rani/academic-projects-mca/blob/6689bae7fe15a682a3d1d9d98b39de6c1b4e592f/staymate-java-swing/property.png)  
 
 ---
 
-## 🧠 What I Learned
+## ✨ Features  
 
-- How to design clean desktop UI using Swing components
-- Managing form data, validation, and resetting forms
-- Using **JDBC** for DB connection, SQL CRUD operations
-- Handling JTable with dynamic row rendering using `DefaultTableModel`
-- Modular Java code structure using packages, DAO & models
-
----
-
-## ⚠️ Limitations (MCA Phase)
-
-- No encryption in login/signup system
-- Local-only, no cloud or network access
-- UI lacks responsive design (fixed resolution)
-- No MVC structure (initial version)
+- 🔐**Login & Signup** – Basic user authentication flow
+- 🏠**Home Screen** – Displays available facilities like Wi-Fi, food options, and double bed availability
+- ➕**Add Property** – A form to enter property name, category, price, address, description, and select amenities via checkboxes
+- 📋**Manage Room Details** – Add, view, and clear room entries using a JTable interface  
 
 ---
 
 ## 🔄 What Came Next
 
-Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems, and more.
+This project laid the foundation for my transition from desktop-based Java applications to full-stack web development using modern frameworks.  
+ 
+After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
 
-📌 **Check my pinned GitHub repositories for latest monolithic projects.**  
+📌 **Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.**
 
 ---
 
-## 📁 Folder Structure (Simplified)
+## 📁 Folder Structure  
 
 ```bash
 staymate-java-swing/
@@ -88,11 +77,11 @@ staymate-java-swing/
 
 > Prerequisites: JDK 8+, MySQL installed, NetBeans or IntelliJ IDE
 
-### 1. Clone the repo
+### 1. Clone the repository  
 
 ```bash
 git clone https://github.com/rangari-rani/academic-projects-mca.git
-cd academic-projects-mca/staymate-java-swing
+cd staymate-java-swing
 ```
 
 ## 2. Import project into your IDE  
@@ -118,6 +107,14 @@ String password = "your_password";
 
 ---
 
+## ⚠️ Limitations  
+
+- Login/Signup lacks encryption and secure storage
+- Desktop-only app with no cloud or network connectivity
+- Fixed-size UI layout (non-responsive, resolution-dependent)
+
+---
+
 ## 📜 License
 
 [MIT License](LICENSE)
@@ -126,7 +123,7 @@ String password = "your_password";
 
 ## 📬 Contact
 
--  This was one of my early projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
-- 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ If you found this project helpful, consider giving it a star!
+This project is based on academic work from my MCA program (2022).  
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
+⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
 
