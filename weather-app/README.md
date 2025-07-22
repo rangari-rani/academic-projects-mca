@@ -13,13 +13,14 @@ A sleek, real-time weather forecast application with clean UI, responsive layout
 
 ## 📚 About This Project
 
-Originally built during MCA (2022), this project marked my first deep dive into working with external APIs, dynamic UI states, and timezone-aware data presentation.
+Originally built during MCA (2022), this project marked my first deep dive into working with external APIs, dynamic UI states, and timezone-aware data presentation using React.
 
 Despite being a small-scale frontend app, it showcases key strengths:
-- API integration and real-time data handling  
-- Custom timezone conversion using **Luxon**  
-- Responsive UI with **Tailwind CSS**  
-- Reusable components and clean layout logic
+- Real-time data handling from the OpenWeatherMap API
+- Custom timezone logic and formatting using **Luxon**
+- Geolocation handling through the browser
+- State-driven rendering via `useEffect` and `useState`
+- Reusable components, clean layout logic, and user-friendly feedback (toasts, error messages)
 
 > 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
@@ -70,30 +71,13 @@ I fixed the bug by:
 
 ---
 
-## 🧠 What I Learned
-
-- Integrating real-world APIs with React
-- Handling geolocation via browser
-- Timezone math and formatting using Luxon
-- State-driven UI with `useEffect` and `useState`
-- Error handling, feedback toasts, and user-first UX
-
----
-
-## ⚠️ Limitations (MCA Phase)
-
-- No saved cities or user account
-- No dark mode or chart-based weather graphs
-- Forecast UI limited to default 5-day/hourly API structure
-- API key is hardcoded (no `.env` support)
-
----
-
 ## 🔄 What Came Next
 
-Since this MCA project, I've worked on advanced full-stack applications with authentication, role-based systems and more.
+This weather app helped me transition from basic React concepts to handling real-world APIs, managing live state updates, and implementing timezone logic with libraries like **Luxon**.
 
-📌 **Check my pinned GitHub repositories for latest monolithic projects.**  
+After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
+
+📌 **Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.**
 
 ---
 
@@ -119,10 +103,10 @@ weather-app/
 
 ```bash
 git clone https://github.com/rangari-rani/academic-projects-mca.git
-cd academic-projects-mca/weather-app
+cd weather-app
 ```
 
-### 2. Install dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
@@ -134,17 +118,24 @@ npm install
 npm start
 ```
 
-The app will be available at:  
-🌐 http://localhost:3000  
+> The app will be available at:  
+> 🌐 http://localhost:3000  
 
 ### 4. Add your API key
    
  - Get a free key from OpenWeatherMap  
- - Paste it in src/weather/weatherService.js:
 
    ```bash
-   const API_KEY = "your_api_key_here";
+   const API_KEY = "your_api_key_here"; // in src/weather/weatherService.js
    ```
+
+---
+
+## ⚠️ Limitations  
+
+- No saved cities or user account
+- No dark mode or chart-based weather graphs
+- Forecast UI limited to default 5-day/hourly API structure
 
 ---
 
@@ -156,7 +147,7 @@ The app will be available at:
 
 ## 📬 Contact
 
--  This was one of my early React projects from my MCA days. Feel free to explore my latest work on GitHub or LinkedIn! 
-- 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ If you found this project helpful, consider giving it a star!
+This project is based on academic work from my MCA program (2022).   
+📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
+⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
 
