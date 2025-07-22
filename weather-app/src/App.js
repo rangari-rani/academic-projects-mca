@@ -65,7 +65,7 @@ function App() {
           rel="noreferrer"
           className="underline hover:text-white"
         >
-          Rani Rangari
+          Rani Rangari - 2022
         </a>{" "}
         ·{" "}
         <a
