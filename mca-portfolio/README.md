@@ -7,7 +7,7 @@ A curated collection of web, desktop, and algorithmic projects developed during 
 
 These projects reflect the shift from academic learning to hands-on application — building a strong base in frontend, backend, and full-stack development.  
 
-> ✨ MCA provided the core programming foundation — from Java to building complete, working systems across platforms.
+> ✨ MCA provided the core programming foundation — from Java to building complete, working systems across platforms.  
 > 🕒 Originally built in 2022 and later organized, refined, and published for clarity, learning, and portfolio presentation.  
 
 ---
