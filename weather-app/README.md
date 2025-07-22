@@ -125,7 +125,7 @@ npm start
    
  - Get a free key from OpenWeatherMap  
 
-   ```bash
+   ```text
    const API_KEY = "your_api_key_here"; // in src/weather/weatherService.js
    ```
 
