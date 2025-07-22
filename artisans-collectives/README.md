@@ -100,13 +100,13 @@ artisans-collective/
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Setup Instructions  
 
-### 1. Clone the Repo
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rangari-rani/artisans-collectives.git
-cd artisans-collective
+git clone https://github.com/rangari-rani/academic-projects-mca.git
+cd artisans-collectives
 ```
 
 ### 2. Install Dependencies
@@ -115,12 +115,13 @@ cd artisans-collective
 npm install
 ```
 
-### 3. Run Locally
+### 3. Start the Development Server  
 
 ```bash
 npm run dev
 ```
-> App will run on http://localhost:5173
+> The app will be available at:   
+> 🌐 http://localhost:5173  
 
 ---
 
