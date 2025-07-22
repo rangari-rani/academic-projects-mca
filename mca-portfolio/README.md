@@ -7,6 +7,7 @@ A curated collection of web, desktop, and algorithmic projects developed during 
 
 These projects reflect the shift from academic learning to hands-on application — building a strong base in frontend, backend, and full-stack development.
 
+> 🕒 Originally built in 2022 and later organized, refined, and published for clarity, learning, and portfolio presentation.  
 > ✨ MCA provided the core programming foundation — from Java to building complete, working systems across platforms.
 
 
@@ -18,16 +19,17 @@ These projects reflect the shift from academic learning to hands-on application 
 
 ---
 
-## 🧠 Projects Overview
+## 📁 Projects Overview
 
-| Project Name         | Tech Stack                            | Description                                 |
-|----------------------|----------------------------------------|---------------------------------------------|
-| 🌦️[Weather App](./weather-app/) | React, OpenWeather API, TailwindCSS    | Displays real-time weather information with timezone support |
-| 🎵[StreamPlay Music App](./streamplay)  | ReactJS, TailwindCSS                   | Music player frontend with search and filter |
-| 🏨[StayMate Room Booking](./staymate-java-swing) | ReactJS, CSS                          | Visualizes Bubble, Selection, Insertion sort |
-| 🔢[Sorting Algorithm Visualizer](./sorting-algorithm-visualizer)  | ReactJS, CSS                    | Dijkstra Algorithm visualized on a grid      |
-| 🧭[Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer)   | Java Swing, JDBC, MySQL             | CRUD-based room management desktop system   |
-| 🍱[Food Fusion (Full-Stack)](./Food-Fusion-mern)  | Reactjs, Nodejs, Express, MongoDB    | Full-stack food ordering app with user and admin flows |
+| Project | Type | Tech Stack | Description |
+|--------|------|------------|-------------|
+| 🌦️[Weather App](./weather-app/) | Frontend | React, Tailwind | Weather dashboard with live API, location search, and timezone correction. |
+| 🎵[StreamPlay Music App](./streamplay) | Frontend | React, Tailwind | Static music player UI with playlist visuals and responsive design. |
+| 🛍️[The Artisans Collective](./artisans-collectives) | Frontend | React, Tailwind | Product listing, category filtering, cart flow, and order success screen.|
+| 🏨[StayMate Room Booking](./staymate-java-swing) | Desktop App | Java Swing, JDBC, MySQL | Room booking system with login, form-based UI, and database connectivity. |
+| 🔢[Sorting Algorithm Visualizer](./sorting-algorithm-visualizer) | Visualizer | React, CSS | Visualizes popular sorting algorithms like Bubble, Merge, Quick sort. |
+| 🧭[Dijkstra Pathfinding Visualizer](./dijkstra-path-visualizer) | Visualizer | React, CSS | Pathfinding simulation showing Dijkstra's algorithm in action. |
+
 
 ---
 
@@ -45,7 +47,7 @@ These projects reflect the shift from academic learning to hands-on application 
 
 ```bash
 academic-projects-mca/
-├── Food-Fusion-mern/
+├── artisans-collectives/
 ├── dijkstra-path-visualizer/
 ├── sorting-algorithm-visualizer/
 ├── staymate-java-swing/
@@ -72,6 +74,6 @@ academic-projects-mca/
 
 ## 📬 Contact
 
-This portfolio showcases academic work completed during my **MCA Program (2022)**.  
+This portfolio is based on academic work from my MCA program (2022).  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
-⭐ If you found this helpful or insightful, feel free to explore and give it a ⭐!
+⭐ If you found it helpful or inspiring, feel free to leave a ⭐!
