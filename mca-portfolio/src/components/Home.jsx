@@ -343,7 +343,7 @@ const Home = () => {
                   Projects{" "}
                 </h3>
                 <p className="text-gray-600 text-sm dark:text-white/80">
-                It has frontend, backend, desktop applications {" "}
+                A mix of frontend, and desktop-based applications. {" "}
                 </p>
               </li>
             </ul>
@@ -380,8 +380,41 @@ const Home = () => {
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 my-10">
 
-
-          {/* first */}
+                 {/* first */}
+                   <div className="aspect-square bg-[url('/cup10.webp')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
+            <div className="bg-white w-10/12 rounded-md absolute bottom-3 left-1/2 -translate-x-1/2 py-1 px-2 flex flex-col gap-1 duration-500 group-hover:bottom-7">
+              {/* First Row */}
+              <div className="flex items-center justify-between">
+                <h2 className="font-semibold text-rose-400">The Artisans Collective </h2>
+                <a
+                  href="https://github.com/rangari-rani/academic-projects-mca/tree/master/artisans-collectives"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] hover:bg-rose-200 transition"
+                >
+                  <img src={git} alt="GitHub" className="w-5" />
+                </a>
+              </div>
+              {/* Second Row */}
+              <div className="flex items-center justify-between">
+                <p className="text-medium text-gray-600">
+                Reactjs | Tailwind css
+                </p>
+                <a
+                  href="https://artisans-collectives.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] hover:bg-rose-200 transition"
+                >
+                  <img src={send} alt="Live" className="w-5" />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+          {/* second */}
           <div className="aspect-square bg-[url('/weather.png')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
             <div className="bg-white w-10/12 rounded-md absolute bottom-3 left-1/2 -translate-x-1/2 py-1 px-2 flex flex-col gap-1 duration-500 group-hover:bottom-7">
               {/* First Row */}
@@ -414,7 +447,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          {/* second */}
+          {/* third */}
           <div className="aspect-square bg-[url('/music.jpg')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
             <div className="bg-white w-10/12 rounded-md absolute bottom-3 left-1/2 -translate-x-1/2 py-1 px-2 flex flex-col gap-1 duration-500 group-hover:bottom-7">
               {/* First Row */}
@@ -447,7 +480,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          {/* third */}
+          {/* fourth */}
           <div className="aspect-square bg-[url('/home2.jpg')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
             <div className="bg-white w-10/12 rounded-md absolute bottom-3 left-1/2 -translate-x-1/2 py-1 px-2 flex flex-col gap-1 duration-500 group-hover:bottom-7">
               {/* First Row */}
@@ -471,7 +504,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-          {/* fourth */}
+          {/* fifth */}
           <div className="aspect-square bg-[url('/sort.png')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
             <div className="bg-white w-10/12 rounded-md absolute bottom-3 left-1/2 -translate-x-1/2 py-1 px-2 flex flex-col gap-1 duration-500 group-hover:bottom-7">
               {/* First Row */}
@@ -503,7 +536,7 @@ const Home = () => {
             </div>
           </div>
 
-               {/* fifth */}
+               {/* sixth */}
                <div className="aspect-square bg-[url('/find.png')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
             <div className="bg-white w-10/12 rounded-md absolute bottom-3 left-1/2 -translate-x-1/2 py-1 px-2 flex flex-col gap-1 duration-500 group-hover:bottom-7">
               {/* First Row */}
@@ -535,39 +568,7 @@ const Home = () => {
             </div>
           </div>
 
-                   {/* sixth */}
-                   <div className="aspect-square bg-[url('/food_12.png')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
-            <div className="bg-white w-10/12 rounded-md absolute bottom-3 left-1/2 -translate-x-1/2 py-1 px-2 flex flex-col gap-1 duration-500 group-hover:bottom-7">
-              {/* First Row */}
-              <div className="flex items-center justify-between">
-                <h2 className="font-semibold text-rose-400">🍱Food Fusion-Food Delivery App </h2>
-                <a
-                  href="https://github.com/rangari-rani/academic-projects-mca/tree/master/Food-Fusion-mern"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] hover:bg-rose-200 transition"
-                >
-                  <img src={git} alt="GitHub" className="w-5" />
-                </a>
-              </div>
-              {/* Second Row */}
-              <div className="flex items-center justify-between">
-                <p className="text-medium text-gray-600">
-                Mongodb | Express | React | Node
-                </p>
-                <a
-                  href="https://food-ordering-frontend-wu7u.onrender.com/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="border rounded-full border-black w-9 aspect-square flex items-center justify-center shadow-[2px_2px_0_#000] hover:bg-rose-200 transition"
-                >
-                  <img src={send} alt="Live" className="w-5" />
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+  
 
           {/* Experience */}
       <div
