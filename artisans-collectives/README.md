@@ -15,8 +15,12 @@ The app offers a seamless shopping experience—from browsing collections to pla
 
 ## 📚 About This Project
 
-This eCommerce frontend was created in 2022 as part of my academic journey in MCA, focusing on product flow, state management, and responsive UI design with React and Tailwind CSS.  
-Since then, I’ve moved on to building full-stack, API-integrated platforms using React and Spring Boot, applying those foundational learnings to real-world systems.
+This eCommerce frontend was built during MCA in 2022, focusing on product listings, cart flow, state management, and responsive UI using **React** and **Tailwind CSS**.  
+There’s no backend or login — the goal was to simulate a complete shopping experience with real-world UX patterns.
+
+Since then, I’ve moved on to building full-stack platforms using **ReactJS** and **Spring Boot**, applying these foundations in secure, API-driven systems.
+
+> 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
 ---
 
