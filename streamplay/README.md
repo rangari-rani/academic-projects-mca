@@ -1,4 +1,8 @@
-# 🎵 StreamPlay – Inbuilt Music Player 
+# 🎵 StreamPlay – Inbuilt Music Player  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 StreamPlay is a responsive, front-end-only music streaming web application. It features a static library of songs and albums, with a clean and intuitive UI for playback.
 
