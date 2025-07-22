@@ -14,7 +14,14 @@ A visually polished, handcrafted eCommerce interface featuring smooth navigation
 
 ## 📚 About This Project
 
-Originally created during MCA (2022), this project simulates a real shopping flow — from product discovery to checkout — without a backend or login system.
+Originally created during MCA (2022), this project simulates a real shopping flow — from product discovery to checkout.
+
+While lightweight, it reflects strong fundamentals in:
+- Component-based UI design
+- Context API for global state (cart and navigation)
+- Route guarding and conditional rendering
+- Mobile-first responsive layout using Tailwind
+- Real-world UX practices (disabled checkout, grouped filters, etc.)
 
 > 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
@@ -117,18 +124,11 @@ npm run dev
 
 ---
 
-## 📚 Learning Highlights  
+## 🚫 Limitations
 
-- Building scalable React UI using Tailwind
-- Modular component and page design
-- Context API for cart and navigation logic
-- Route guarding and dynamic rendering
-
-## 🚫 Limitations 
-
-- No backend integration (data is hardcoded).
-- No authentication or order persistence.
-- No real payment or delivery APIs.
+- No backend integration — all product data is hardcoded.
+- No authentication or user session management.
+- No real payment flow or delivery tracking (UI-only simulation).
 
 ---
 
