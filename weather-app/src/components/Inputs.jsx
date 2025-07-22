@@ -1,6 +1,6 @@
-
 import React, { useState } from "react";
-import { UilSearch, UilLocationPoint } from "@iconscout/react-unicons";
+import { FiSearch } from "react-icons/fi";
+import { BsGeoAlt } from "react-icons/bs";
 import { toast } from "react-toastify";
 
 function Inputs({ setQuery, units, setUnits }) {
@@ -14,7 +14,7 @@ function Inputs({ setQuery, units, setUnits }) {
   const handleSearchClick = () => {
     if (city !== "") {
       setQuery({ q: city });
-      setCity(""); // ✅ Clear the input after search
+      setCity("");
     }
   };
 
@@ -24,16 +24,15 @@ function Inputs({ setQuery, units, setUnits }) {
       navigator.geolocation.getCurrentPosition((position) => {
         toast.success("Location fetched!");
         const { latitude: lat, longitude: lon } = position.coords;
-
         setQuery({ lat, lon });
-        setCity(""); // ✅ Also clear input on location click
+        setCity("");
       });
     }
   };
 
   const handleKeyDown = (e) => {
     if (e.key === "Enter") {
-      handleSearchClick(); // ✅ Support pressing Enter too
+      handleSearchClick();
     }
   };
 
@@ -43,17 +42,17 @@ function Inputs({ setQuery, units, setUnits }) {
         <input
           value={city}
           onChange={(e) => setCity(e.currentTarget.value)}
-          onKeyDown={handleKeyDown} // ✅ handle Enter key
+          onKeyDown={handleKeyDown}
           type="text"
           placeholder="Search for city...."
           className="text-xl font-light p-2 w-full shadow-xl focus:outline-none capitalize placeholder:lowercase"
         />
-        <UilSearch
+        <FiSearch
           size={25}
           className="text-white cursor-pointer transition ease-out hover:scale-125"
           onClick={handleSearchClick}
         />
-        <UilLocationPoint
+        <BsGeoAlt
           size={25}
           className="text-white cursor-pointer transition ease-out hover:scale-125"
           onClick={handleLocationClick}
