@@ -411,8 +411,7 @@ const Home = () => {
               </div>
             </div>
           </div>
-        </div>
-      </div>
+
       
           {/* second */}
           <div className="aspect-square bg-[url('/weather.png')] bg-no-repeat bg-cover bg-center rounded-lg relative cursor-pointer group">
@@ -567,7 +566,8 @@ const Home = () => {
               </div>
             </div>
           </div>
-
+        </div>
+      </div>
   
 
           {/* Experience */}
