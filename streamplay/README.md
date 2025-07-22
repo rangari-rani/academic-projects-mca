@@ -4,7 +4,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-StreamPlay is a responsive React-based music player with a curated set of hardcoded tracks, offering smooth playback, clean UI, and intuitive user interaction.  
+StreamPlay is a responsive music streaming interface built with modern frontend tools, featuring a curated set of hardcoded tracks, smooth playback, and a clean, user-friendly UI.  
 
 ---
 
