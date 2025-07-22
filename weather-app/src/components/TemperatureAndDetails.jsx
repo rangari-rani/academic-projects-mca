@@ -1,11 +1,12 @@
 import React from "react";
 import {
-  UilTemperature,
-  UilTear,
-  UilWind,
-  UilSun,
-  UilSunset,
-} from "@iconscout/react-unicons";
+  WiThermometer,
+  WiHumidity,
+  WiStrongWind,
+  WiSunrise,
+  WiSunset,
+  WiDaySunny,
+} from "react-icons/wi";
 import { formatToLocalTime, iconUrlFromCode } from "../weather/weatherService";
 
 function TemperatureAndDetails({
@@ -34,17 +35,17 @@ function TemperatureAndDetails({
         <p className="text-5xl">{`${temp.toFixed()}°`}</p>
         <div className="flex flex-col space-y-2">
           <div className="flex font-light text-sm items-center justify-center">
-            <UilTemperature size={18} className="mr-1" />
+            <WiThermometer size={24} className="mr-1" />
             Feels like:
             <span className="font-medium ml-1">{`${feels_like.toFixed()}°`}</span>
           </div>
           <div className="flex font-light text-sm items-center justify-center">
-            <UilTear size={18} className="mr-1" />
+            <WiHumidity size={24} className="mr-1" />
             Humidity:
             <span className="font-medium ml-1">{`${humidity.toFixed()}%`}</span>
           </div>
           <div className="flex font-light text-sm items-center justify-center">
-            <UilWind size={18} className="mr-1" />
+            <WiStrongWind size={24} className="mr-1" />
             Wind:
             <span className="font-medium ml-1">{`${speed.toFixed()} km/h`}</span>
           </div>
@@ -52,34 +53,34 @@ function TemperatureAndDetails({
       </div>
 
       <div className="flex flex-row items-center justify-center space-x-2 text-white text-sm py-3">
-        <UilSun />
+        <WiSunrise size={24} />
         <p className="font-light">
-          Rise:{" "}
+          Rise:
           <span className="font-medium ml-1">
             {formatToLocalTime(sunrise, timezone, "hh:mm a")}
           </span>
         </p>
         <p className="font-light">|</p>
 
-        <UilSunset />
+        <WiSunset size={24} />
         <p className="font-light">
-          Set:{" "}
+          Set:
           <span className="font-medium ml-1">
             {formatToLocalTime(sunset, timezone, "hh:mm a")}
           </span>
         </p>
         <p className="font-light">|</p>
 
-        <UilSun />
+        <WiDaySunny size={24} />
         <p className="font-light">
-          High:{" "}
+          High:
           <span className="font-medium ml-1">{`${temp_max.toFixed()}°`}</span>
         </p>
         <p className="font-light">|</p>
 
-        <UilSun />
+        <WiDaySunny size={24} />
         <p className="font-light">
-          Low:{" "}
+          Low:
           <span className="font-medium ml-1">{`${temp_min.toFixed()}°`}</span>
         </p>
       </div>
