@@ -74,7 +74,7 @@ _Mobile responsive design screenshots_
 
 ## 🔄 What Came Next
 
-This project marked my first serious attempt at building a realistic frontend flow.
+This project marked my first serious attempt at building a realistic frontend flow—from product discovery to checkout—with reusable components and UX decisions.  
 
 After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
 
