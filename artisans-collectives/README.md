@@ -1,11 +1,10 @@
-# 🛍️ Artisans Collective – React eCommerce Frontend
+# 🛍️ Artisans Collective – Handcrafted eCommerce UI (React + Tailwind)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-A beautiful handcrafted products eCommerce frontend built using **React**, **TailwindCSS**, and **Vite**.  
-The app offers a seamless shopping experience—from browsing collections to placing an order—**purely on the frontend**, with mock data.
+A visually polished, handcrafted eCommerce interface featuring smooth navigation, responsive design, and realistic cart functionality — built fully on the frontend with mock product data.
 
 ---
 
@@ -15,8 +14,7 @@ The app offers a seamless shopping experience—from browsing collections to pla
 
 ## 📚 About This Project
 
-This eCommerce frontend was built during MCA in 2022, focusing on product listings, cart flow, state management, and responsive UI using **React** and **Tailwind CSS**.  
-There’s no backend or login — the goal was to simulate a complete shopping experience with real-world UX patterns.
+Originally created during MCA (2022), this project simulates a real shopping flow — from product discovery to checkout — without a backend or login system.
 
 > 🕒 Organized and published later for clarity, learning, and portfolio presentation.
 
