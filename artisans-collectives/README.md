@@ -78,7 +78,7 @@ This project marked my first serious attempt at building a realistic frontend fl
 
 After this, I began building **full-stack applications** with **ReactJS** and **Spring Boot**, adding real API integrations, role-based auth, database persistence, and modular monolithic structures.
 
-📌 Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.
+📌 **Explore my pinned GitHub repositories to see full-stack platforms built beyond the academic phase.**
 
 ---
 
