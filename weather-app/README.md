@@ -98,6 +98,7 @@ weather-app/
 ---
 
 ## ⚙️ Setup Instructions
+> ⚡️ For faster local development, consider migrating the codebase to [Vite](https://vitejs.dev/) — the `src` structure remains compatible.
 
 ### 1. Clone the repository
 
