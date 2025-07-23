@@ -35,8 +35,7 @@ These projects reflect the shift from academic learning to hands-on application 
 ## 🛠️ Tech Stack Summary
 
 - **Frontend development**: with React and Tailwind CSS
-- **Backend logic**: using Node.js and Express
-- **Database management**: with MongoDB and MySQL
+- **Database management**: MySQL
 - **Tools**: Git, GitHub, Vercel, NetBeans, VS Code
 - **UI design** for both web and desktop applications
 
