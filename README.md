@@ -60,8 +60,8 @@ These projects helped me build confidence with Git/GitHub workflows, translate t
 
 ## 🔗 Related Repositories
 
-- 🧩 [Monolithic Full-Stack Project (Spring Boot + React)](https://github.com/rangari-rani/wellness_cart)
-<!-- - 🎓 [CDAC Academic Projects (2023)](https://github.com/rangari-rani/academic-projects-cdac) -->
+- 🧩 [Monolithic Full-Stack Project (Spring Boot + React)](https://github.com/rangari-rani/wellness_cart)  
+- 🎓 [CDAC Academic Projects (2023)](https://github.com/rangari-rani/academic-projects-cdac)  
 
 ---
 
