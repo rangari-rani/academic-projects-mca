@@ -13,7 +13,7 @@ A sleek, real-time weather forecast application with clean UI, responsive layout
 
 ## 📚 About This Project
 
-Originally built during MCA (2022), this project marked my first deep dive into working with external APIs, dynamic UI states, and timezone-aware data presentation using React.
+Originally built during MCA, this project marked my first deep dive into working with external APIs, dynamic UI states, and timezone-aware data presentation using React.
 
 Despite being a small-scale frontend app, it showcases key strengths:
 - Real-time data handling from the OpenWeatherMap API
@@ -148,7 +148,6 @@ npm start
 
 ## 📬 Contact
 
-This project is based on academic work from my MCA program (2022).   
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)   
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
 
