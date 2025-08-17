@@ -12,7 +12,7 @@ An interactive visual tool that demonstrates Dijkstra’s shortest path algorith
 
 ## 📚 About This Project  
 
-Originally built during MCA (2022), this grid-based visualizer brings Dijkstra’s algorithm to life—showing how it navigates nodes, avoids walls, and finds the shortest path.  
+Originally built during MCA, this grid-based visualizer brings Dijkstra’s algorithm to life—showing how it navigates nodes, avoids walls, and finds the shortest path.  
 
 While simple in scope, it reflects strong fundamentals in:  
 - Pathfinding logic and algorithmic thinking
