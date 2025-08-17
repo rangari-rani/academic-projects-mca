@@ -1,14 +1,9 @@
-# 💼 Academic Portfolio – MCA (RTM Nagpur University, India – 2022)  
-[![Built with ReactJS](https://img.shields.io/badge/Built_with-ReactJS-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
-[![MCA (2022)](https://img.shields.io/badge/MCA_(2022)-RTM_Nagpur_University,_India-blue)](https://www.nagpuruniversity.ac.in/)
+# 💼 Academic Portfolio – MCA   
 
+A curated collection of web, desktop, and algorithmic projects developed during my Master of Computer Applications (MCA).
 
-A curated collection of web, desktop, and algorithmic projects developed during my Master of Computer Applications (MCA) at RTM Nagpur University in 2022.  
-
-These projects reflect the shift from academic learning to hands-on application — building a strong base in frontend, backend, and full-stack development.  
-
-> ✨ MCA provided the core programming foundation — from Java to building complete, working systems across platforms.  
-> 🕒 Originally built in 2022 and later organized, refined, and published for clarity, learning, and portfolio presentation.  
+These projects reflect the shift from academic learning to hands-on application — building a strong base in frontend, backend, and full-stack development.   
+> 🕒 Originally built during MCA and later organized, refined, and published for clarity, learning, and portfolio presentation.  
 
 ---
 
@@ -72,6 +67,5 @@ academic-projects-mca/
 
 ## 📬 Contact
 
-This portfolio is based on academic work from my MCA program (2022).  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ If you found it helpful or inspiring, feel free to leave a ⭐!
