@@ -9,7 +9,7 @@ StayMate is a desktop-based application built using **Java Swing** that allows u
 
 ## 📚 About This Project  
 
-Originally created during MCA (2022), this project simulates student allocations, room listings, and amenity tracking.  
+Originally created during MCA, this project simulates student allocations, room listings, and amenity tracking.  
 
 While offline and desktop-based, it reflects strong fundamentals in:  
 - Swing-based GUI design and form handling
@@ -122,8 +122,7 @@ String password = "your_password";
 ---
 
 ## 📬 Contact
-
-This project is based on academic work from my MCA program (2022).  
+  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
 
