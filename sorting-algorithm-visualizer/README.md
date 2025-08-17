@@ -12,7 +12,7 @@ An interactive visualizer of popular sorting algorithms built using **React**. I
 
 ## 📚 About This Project  
 
-Originally created during MCA (2022), this project visualizes how popular sorting algorithms work—through animated bars that rearrange in real-time.  
+Originally created during MCA, this project visualizes how popular sorting algorithms work—through animated bars that rearrange in real-time.  
 
 While simple, it reflects key frontend learning milestones like:  
 - React state and effect management (useState, useEffect, setTimeout)
@@ -115,6 +115,5 @@ npm start
 
 ## 📬 Contact
 
-This project is based on academic work from my MCA program (2022).  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!  
