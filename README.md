@@ -73,6 +73,5 @@ These projects helped me build confidence with Git/GitHub workflows, translate t
 
 ## 📬 Contact
 
-This repository features academic work from my MCA program.
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ Feel free to explore the projects for learning and reference. If you found them useful, consider leaving a ⭐!
