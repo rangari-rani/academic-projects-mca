@@ -14,7 +14,7 @@ A visually polished, handcrafted eCommerce interface featuring smooth navigation
 
 ## 📚 About This Project
 
-Originally created during MCA (2022), this project simulates a real shopping flow — from product discovery to checkout.
+Originally created during MCA, this project simulates a real shopping flow — from product discovery to checkout.
 
 While lightweight, it reflects strong fundamentals in:
 - Component-based UI design
@@ -141,6 +141,5 @@ npm run dev
 
 ## 📬 Contact
 
-This project is based on academic work from my MCA program (2022).  
 📫 Connect with me on [LinkedIn – Rani Rangari](https://www.linkedin.com/in/rani-rangari/)  
 ⭐ If you found this project helpful or insightful, feel free to leave a ⭐!
